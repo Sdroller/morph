@@ -6,7 +6,7 @@
 	url = https://github.com/roaldlemmens/vesc.git
 [submodule "ackermann_msgs"]
 	path = ackermann_msgs
-	url = https://github.com/ros-drivers/ackermann_msgs.git
+	url = https://github.com/sdroller/ackermann_msgs.git
 [submodule "serial"]
 	path = serial
 	url = https://github.com/wjwwood/serial.git
