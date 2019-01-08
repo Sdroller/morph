@@ -4,10 +4,6 @@
 [submodule "vesc"]
 	path = vesc
 	url = https://github.com/roaldlemmens/vesc.git
-[submodule "ackermann_msgs"]
-	path = ackermann_msgs
-	url = https://github.com/sdroller/ackermann_msgs.git
-	branch = master
 [submodule "serial"]
 	path = serial
 	url = https://github.com/wjwwood/serial.git
@@ -27,3 +23,6 @@
 [submodule "morph_design"]
 	path = morph_design
 	url = https://github.com/roaldlemmens/morph_design.git
+[submodule "ackermann_msgs"]
+	path = ackermann_msgs
+	url = http://github.com/sdroller/ackermann_msgs.git
